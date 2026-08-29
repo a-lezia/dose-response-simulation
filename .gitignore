@@ -2,6 +2,7 @@ venv/
 .venv/
 __pycache__/
 *.pyc
+.DS_Store
 
 # Generated outputs (reproducible by running the scripts)
 *.csv
