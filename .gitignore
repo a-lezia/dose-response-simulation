@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Generated outputs (reproducible by running the scripts)
+*.csv
+*.png
